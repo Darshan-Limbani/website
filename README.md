@@ -10,4 +10,4 @@ edited within local environment.
 - Now editing on update-readme branch
 
 
-Updated Locally......, and remotely
+Update made on master before rebase.
