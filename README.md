@@ -11,3 +11,7 @@ This was edited locally.
 ## Purpose
 
 The purpose of this file is to provide examples on how to use git and github.
+
+## Getting Started
+
+To get started with this poject, just `clone` this repository.
